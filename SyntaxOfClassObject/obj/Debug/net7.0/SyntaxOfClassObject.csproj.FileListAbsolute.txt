@@ -1,0 +1,17 @@
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/SyntaxOfClassObject
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/SyntaxOfClassObject.deps.json
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/SyntaxOfClassObject.runtimeconfig.json
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/SyntaxOfClassObject.dll
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/SyntaxOfClassObject.pdb
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.AssemblyInfo.cs
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.csproj.CopyComplete
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.dll
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/refint/SyntaxOfClassObject.dll
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.pdb
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/SyntaxOfClassObject.genruntimeconfig.cache
+/Users/yellobunny/Projects/c_sharp/SyntaxOfClassObject/obj/Debug/net7.0/ref/SyntaxOfClassObject.dll
